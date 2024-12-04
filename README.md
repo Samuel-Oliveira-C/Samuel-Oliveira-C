@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ola 👋, eu sou o Samuel
 
-<!--
-**Samuel-Oliveira-C/Samuel-Oliveira-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aqui você encontrará uma coleção de projetos que refletem minha paixão por desenvolvimento de software e meu compromisso em criar experiências digitais funcionais
 
-Here are some ideas to get you started:
+### Redes sociais:
+<div>
+  Linkedin Gmail 
+</div>
+<br />
+<div>
+  Linguagens que uso  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Oliveira-C&size_weight=0.5&count_weight=0.5)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  Estatísticas do GitHub  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Oliveira-C&show_icons=true&theme=transparent)
+</div>

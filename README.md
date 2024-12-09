@@ -9,7 +9,13 @@
   </a>
 </div>
 <br />
-Linguagens que utilizo :
+
+## Habilidades Técnicas  
+| Desenvolvimento Web | Linguagens de Programação | Frameworks e Bibliotecas | Banco de Dados | Ferramentas e Tecnologias |
+| :-----------------: | :-----------------------: | :----------------------: | :------------: | :-----------------------: |
+|<img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/HTML.svg"><img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/CSS.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/JavaScript.svg"><img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/TypeScript.svg"><img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Java-Dark.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/React-Dark.svg"><img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VueJS-Dark.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/postgree.svg"><img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/MySQL-Dark.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/NodeJS-Dark.svg"><img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VSCode-Dark.svg"><img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Git.svg"><img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Github-Dark.svg">
+
+<br />
 <div>
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Oliveira-C&size_weight=0.5&count_weight=0.5&locale=pt-br" />
